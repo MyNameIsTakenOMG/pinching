@@ -7,6 +7,7 @@ Pinching is an e-commerce web app sample, built with **micro-service architectur
 
 - Motivation
 - Setup
+- Technologies - Libraries
 - Features
 - Architecture
 - Database structure
